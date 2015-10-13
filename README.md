@@ -30,7 +30,7 @@ Phisical damage of spellcaster is less than other unit's damage.
 <li><b>Warlock:</b> battle spellcaster (healing spells have half effect). Can summon a Demon</li>
 <li><b>Necromancer:</b> undead. Battle spellcaster (healing spells have half effect). After attack on unit (phisicaly or by spell) starts observing this unit. After the death of observable unit, Necromancer gets part of obervable's heat points. Necromancer cannot be healed in other way</li>
 
-All special abilities of units implemented in special classes, extended from abstract class Ability
+All special abilities of units implemented in special classes, inherited from abstract class Ability
 
 <b><i>Basic spells</i></b>
 
